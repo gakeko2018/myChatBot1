@@ -12,3 +12,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.hack {
+  position: fixed;
+  bottom: 0;
+  max-width: 100%;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+.box {
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+  padding: 0;
+  background-color: red;
+  float: right;
+}
